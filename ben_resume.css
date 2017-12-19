@@ -2,7 +2,7 @@ img {
 	height: 150px;
 	width: 150px;
 	border-radius: 150px;
-	margin-left: 190px;
+	margin-left: 100px;
 	margin-bottom: 0px;
 }
 
@@ -29,15 +29,11 @@ img {
 	padding-top: 15px;
 }
 
-#summary {
-	text-align: center;
-}
 
 #summary p {
 	width: 85%;
 	padding-top: 10px;
 	margin-top: 20px;
-	padding-left: 20px;
 	margin-left: 10px;
 }
 
@@ -50,11 +46,11 @@ h3 {
 }
 
 #experience {
-	margin-left: 100px;
+	margin-left: 50px;
 }
 
 .education {
-	margin-left: 80px;
+	margin-left: 50px;
 }
 
 #education {
@@ -62,7 +58,7 @@ h3 {
 }
 
 .portfolio {
-	margin-left: 55px;
+	margin-left: 50px;
 }
 
 
